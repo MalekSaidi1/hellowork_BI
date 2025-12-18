@@ -1,0 +1,734 @@
+category,contract_type,remote,experience_years,department,department_num,salary_unit,salary_category,std_department_num,std_experience_years,std_remote,category_Emploi Commerce,category_Emploi Comptabilité,category_Emploi Distribution,category_Emploi Ressources Humaines,contract_type_Alternance,contract_type_CDD,contract_type_CDI,contract_type_Intérim,contract_type_Stage,contract_type_Temps partiel,salary_unit_annual,salary_unit_hourly,salary_unit_monthly
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,True,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,15,15,monthly,Bas,0.38289109796696597,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDD,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,True,False,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,Alternance,0,3.0,34,34,monthly,Bas,1.2816816459841471,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,Alternance,0,3.0,34,34,monthly,Bas,1.2816816459841471,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,Alternance,1,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,Intérim,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,True,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,83,83,annual,Moyen,3.599615164554772,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDD,0,3.0,29,29,hourly,Bas,1.0451578175585732,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,True,False,False,False,False,False,True,False
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,CDD,0,3.0,10,10,hourly,Bas,0.146367269541392,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,True,False,False,False,False,False,True,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDD,0,3.0,75,75,annual,Moyen,3.221177039073854,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,True,False,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDD,0,3.0,79,79,hourly,Bas,3.410396101814313,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,True,False,False,False,False,False,True,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,Temps partiel,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,False,False,True,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,Alternance,0,3.0,97,97,annual,Bas,4.261881884146379,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,True,False,False
+Emploi Commerce,Intérim,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,True,False,False,False,True,False
+Emploi Commerce,Intérim,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,True,False,False,False,True,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDD,0,3.0,84,84,monthly,Bas,3.646919930239887,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,True,False,False,False,False,False,False,True
+Emploi Commerce,Intérim,0,3.0,28,28,hourly,Bas,0.9978530518734583,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,True,False,False,False,True,False
+Emploi Commerce,Intérim,0,3.0,89,89,hourly,Bas,3.883443758665461,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,True,False,False,False,True,False
+Emploi Commerce,Intérim,0,3.0,45,45,hourly,Bas,1.80203406852041,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,True,False,False,False,True,False
+Emploi Commerce,Intérim,0,3.0,08,8,hourly,Bas,0.05175773817116242,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,True,False,False,False,True,False
+Emploi Commerce,Intérim,0,3.0,71,71,hourly,Bas,3.031957976333395,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,True,False,False,False,True,False
+Emploi Commerce,Intérim,0,3.0,67,67,hourly,Bas,2.8427389135929353,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,True,False,False,False,True,False
+Emploi Commerce,Intérim,0,3.0,56,56,hourly,Bas,2.322386491056673,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,True,False,False,False,True,False
+Emploi Commerce,Intérim,0,3.0,51,51,hourly,Bas,2.0858626626310985,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,True,False,False,False,True,False
+Emploi Commerce,Intérim,0,3.0,51,51,hourly,Bas,2.0858626626310985,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,True,False,False,False,True,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,Intérim,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,True,False,False,False,True,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,hourly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,True,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDD,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,True,False,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,26,26,annual,Moyen,0.9032435205032286,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,Intérim,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,True,False,False,False,False,True
+Emploi Commerce,Intérim,0,3.0,69,69,hourly,Bas,2.937348444963165,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,True,False,False,False,True,False
+Emploi Commerce,CDI,0,3.0,45,45,annual,Moyen,1.80203406852041,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,Intérim,1,3.0,Non précisé,-1,hourly,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,False,True,False,False,False,True,False
+Emploi Commerce,Intérim,0,3.0,34,34,hourly,Moyen,1.2816816459841471,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,True,False,False,False,True,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,33,33,monthly,Moyen,1.2343768802990323,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,CDI,0,2.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-3.3211673658151777,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,03,3,annual,Moyen,-0.18476609025441157,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,Alternance,0,3.0,56,56,annual,Bas,2.322386491056673,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,CDI,1,3.0,69,69,annual,Haut,2.937348444963165,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDD,1,3.0,59,59,annual,Bas,2.464300788112017,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,True,False,False,False,False,True,False,False
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,Stage,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,False,True,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,1,3.0,51,51,annual,Haut,2.0858626626310985,-0.03585605793052774,1.9154085227222932,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,1.0,69,69,annual,Moyen,2.937348444963165,-6.6064786736998276,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,13,13,monthly,Moyen,0.28828156659673637,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,Temps partiel,0,3.0,25,25,hourly,Bas,0.8559387548181139,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,False,False,False,True,False,True,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,False,False,True
+Emploi Commerce,Alternance,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,True,False,False,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,True,False,False
+Emploi Commerce,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,True,False,False,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,Intérim,0,3.0,87,87,hourly,Bas,3.7888342272952316,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,Intérim,0,3.0,06,6,hourly,Bas,-0.04285179319906717,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,Intérim,0,3.0,54,54,hourly,Bas,2.227776959686443,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,CDD,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,True,False,False,False,False,False,False,True
+Emploi Distribution,CDD,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,True,False,False,False,False,False,False,True
+Emploi Distribution,CDD,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,True,False,False,False,False,False,False,True
+Emploi Distribution,CDD,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,True,False,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,True,False
+Emploi Distribution,CDI,0,3.0,83,83,monthly,Moyen,3.599615164554772,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,Intérim,0,3.0,68,68,monthly,Bas,2.89004367927805,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,69,69,hourly,Bas,2.937348444963165,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,True,False
+Emploi Distribution,Temps partiel,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,False,False,True,False,True,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,Intérim,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,Intérim,0,3.0,25,25,hourly,Bas,0.8559387548181139,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,True,False
+Emploi Distribution,Intérim,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,Intérim,0,3.0,32,32,hourly,Bas,1.1870721146139174,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,Intérim,0,3.0,83,83,hourly,Bas,3.599615164554772,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,67,67,annual,Bas,2.8427389135929353,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,Intérim,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,CDI,0,3.0,25,25,hourly,Bas,0.8559387548181139,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,True,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,Intérim,0,3.0,21,21,hourly,Bas,0.6667196920776547,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,Intérim,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,True,False,False
+Emploi Distribution,Temps partiel,0,3.0,25,25,hourly,Bas,0.8559387548181139,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,False,False,True,False,True,False
+Emploi Distribution,Temps partiel,0,3.0,11,11,hourly,Bas,0.1936720352265068,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,False,False,True,False,True,False
+Emploi Distribution,Intérim,0,3.0,38,38,hourly,Bas,1.4709007087246062,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,Intérim,0,3.0,76,76,hourly,Bas,3.2684818047589688,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,Intérim,0,3.0,85,85,hourly,Bas,3.694224695925002,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,49,49,monthly,Bas,1.9912531312608692,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,Intérim,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,Intérim,0,3.0,22,22,hourly,Bas,0.7140244577627696,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,Intérim,0,3.0,03,3,hourly,Bas,-0.18476609025441157,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDD,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,True,False,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,,0,3.0,04,4,hourly,Haut,-0.13746132456929677,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,False,False,False,False,True,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,57,57,annual,Moyen,2.3696912567417874,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,Temps partiel,0,3.0,53,53,annual,Bas,2.1804721940013283,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,False,False,True,True,False,False
+Emploi Distribution,CDI,0,3.0,68,68,monthly,Bas,2.89004367927805,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,Temps partiel,0,3.0,69,69,annual,Bas,2.937348444963165,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,False,False,True,True,False,False
+Emploi Distribution,Temps partiel,0,3.0,69,69,annual,Bas,2.937348444963165,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,False,False,True,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,Alternance,0,3.0,59,59,annual,Bas,2.464300788112017,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,True,False,False
+Emploi Distribution,Intérim,0,3.0,12,12,hourly,Bas,0.2409768009116216,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,CDD,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,True,False,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,13,13,annual,Bas,0.28828156659673637,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,Intérim,0,3.0,33,33,hourly,Bas,1.2343768802990323,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,CDD,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,True,False,False,False,False,False,False,True
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,Intérim,0,3.0,97,97,hourly,Bas,4.261881884146379,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,Alternance,1,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,True,False,True,False,False,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,Temps partiel,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,False,False,True,True,False,False
+Emploi Distribution,CDI,0,3.0,77,77,monthly,Bas,3.3157865704440836,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,38,38,annual,Bas,1.4709007087246062,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,05,5,monthly,Bas,-0.09015655888418196,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,13,13,monthly,Bas,0.28828156659673637,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,CDD,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,True,False,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,95,95,monthly,Moyen,4.16727235277615,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,CDD,0,3.0,47,47,hourly,Bas,1.8966435998906397,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,True,False,False,False,False,False,True,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,CDD,0,3.0,88,88,monthly,Bas,3.836138992980346,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,True,False,False,False,False,False,False,True
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,05,5,monthly,Bas,-0.09015655888418196,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,75,75,monthly,Bas,3.221177039073854,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,CDD,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,True,False,False,False,False,False,False,True
+Emploi Distribution,Alternance,0,3.0,53,53,monthly,Bas,2.1804721940013283,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,91,91,monthly,Bas,3.9780532900356906,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,73,73,monthly,Bas,3.126567507703624,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,False,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,14,14,annual,Bas,0.3355863322818512,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDD,0,3.0,64,64,hourly,Bas,2.700824616537591,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,True,False,False,False,False,False,True,False
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,CDI,0,2.0,62,62,monthly,Bas,2.6062150851673613,-3.3211673658151777,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,31,31,annual,Moyen,1.1397673489288027,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,CDI,0,3.0,75,75,monthly,Bas,3.221177039073854,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,75,75,monthly,Bas,3.221177039073854,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,CDD,0,3.0,92,92,monthly,Bas,4.0253580557208055,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,True,False,False,False,False,False,False,True
+Emploi Distribution,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,True,False,True,False,False,False,False,False,False,False,True
+Emploi Distribution,CDI,1,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,True,False,False,False,True,False,False,False,False,False,True
+Emploi Distribution,CDI,0,3.0,33,33,annual,Bas,1.2343768802990323,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,False,True,False,False,False,True,False,False
+Emploi Distribution,Intérim,0,1.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-6.6064786736998276,-0.5220818369225695,False,False,True,False,False,False,False,True,False,False,False,True,False
+Emploi Distribution,CDD,0,3.0,01,1,annual,Bas,-0.27937562162464114,-0.03585605793052774,-0.5220818369225695,False,False,True,False,False,True,False,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,7.0,Non précisé,-1,annual,Haut,-0.37398515299487073,13.10538917360807,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDD,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,True,False,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,13,13,annual,Moyen,0.28828156659673637,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,Intérim,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,False,True,False,False,True,False,False
+Emploi Comptabilité,Intérim,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,False,True,False,False,False,False,True
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDD,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,True,False,False,False,False,False,True,False
+Emploi Comptabilité,Intérim,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,False,True,False,False,False,True,False
+Emploi Comptabilité,Intérim,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,False,True,False,False,False,False,True
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,Intérim,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,False,True,False,False,True,False,False
+Emploi Comptabilité,Intérim,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,False,True,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,Intérim,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,False,True,False,False,True,False,False
+Emploi Comptabilité,Intérim,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,False,True,False,False,True,False,False
+Emploi Comptabilité,Intérim,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,False,True,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDD,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,True,False,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,Alternance,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,True,False,False,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,Temps partiel,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,False,False,False,True,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,Intérim,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,False,True,False,False,False,True,False
+Emploi Comptabilité,Intérim,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,False,True,False,False,False,True,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDD,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,True,False,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,Intérim,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,False,True,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,45,45,annual,Moyen,1.80203406852041,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,Intérim,0,3.0,Non précisé,-1,hourly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,False,True,False,False,False,True,False
+Emploi Comptabilité,Temps partiel,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,False,False,False,True,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,False,False,True
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,33,33,annual,Moyen,1.2343768802990323,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDD,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,True,False,False,False,False,False,False,True
+Emploi Comptabilité,Intérim,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,False,True,False,False,False,True,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,False,True,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDD,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,True,False,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,Intérim,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,False,True,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,69,69,hourly,Bas,2.937348444963165,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,False,True,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,8.0,Non précisé,-1,annual,Haut,-0.37398515299487073,16.39070048149272,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,Stage,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,False,False,True,False,False,False,True
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDD,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,True,False,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,75,75,annual,Haut,3.221177039073854,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,Alternance,0,3.0,53,53,monthly,Bas,2.1804721940013283,-0.03585605793052774,-0.5220818369225695,False,True,False,False,True,False,False,False,False,False,False,False,True
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,5.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,6.534766557838772,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Comptabilité,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,True,False,False,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,True,False
+Emploi Ressources Humaines,CDI,0,3.0,44,44,monthly,Bas,1.7547293028352953,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,CDD,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,True,False,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,Intérim,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,True,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,Intérim,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,True,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDD,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,True,False,False,False,False,True,False,False
+Emploi Ressources Humaines,Intérim,1,5.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,6.534766557838772,1.9154085227222932,False,False,False,True,False,False,False,True,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,Intérim,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,True,False,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,Intérim,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,True,False,False,False,True,False
+Emploi Ressources Humaines,CDI,0,3.0,25,25,hourly,Bas,0.8559387548181139,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,True,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,Intérim,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,True,False,False,True,False,False
+Emploi Ressources Humaines,Intérim,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,True,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,67,67,monthly,Haut,2.8427389135929353,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,Intérim,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,True,False,False,False,True,False
+Emploi Ressources Humaines,CDI,0,3.0,62,62,hourly,Bas,2.6062150851673613,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,True,False
+Emploi Ressources Humaines,CDD,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,True,False,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,Intérim,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,True,False,False,True,False,False
+Emploi Ressources Humaines,Intérim,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,False,True,False,False,True,False,False
+Emploi Ressources Humaines,Intérim,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,True,False,False,True,False,False
+Emploi Ressources Humaines,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,Alternance,0,3.0,75,75,monthly,Bas,3.221177039073854,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,Alternance,0,3.0,53,53,monthly,Bas,2.1804721940013283,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,Alternance,0,3.0,67,67,annual,Bas,2.8427389135929353,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,Stage,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,False,True,False,False,True,False
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,Alternance,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,True,False,False
+Emploi Ressources Humaines,CDD,0,1.0,69,69,hourly,Bas,2.937348444963165,-6.6064786736998276,-0.5220818369225695,False,False,False,True,False,True,False,False,False,False,False,True,False
+Emploi Ressources Humaines,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,,1,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,,1,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDD,0,3.0,89,89,hourly,Bas,3.883443758665461,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,True,False,False,False,False,False,True,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,Temps partiel,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,False,False,True,False,False,True
+Emploi Ressources Humaines,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,,1,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,Alternance,1,3.0,53,53,monthly,Bas,2.1804721940013283,-0.03585605793052774,1.9154085227222932,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,1,4.0,Non précisé,-1,annual,Haut,-0.37398515299487073,3.249455249954122,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDD,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,True,False,False,False,False,True,False,False
+Emploi Ressources Humaines,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,,1,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,Alternance,1,3.0,53,53,monthly,Bas,2.1804721940013283,-0.03585605793052774,1.9154085227222932,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,hourly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,True,False
+Emploi Ressources Humaines,Alternance,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,True,False,False
+Emploi Ressources Humaines,,1,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,78,78,monthly,Bas,3.363091336129198,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,,1,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,False,False,False,False,True,False,False
+Emploi Ressources Humaines,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,Stage,0,3.0,86,86,monthly,Bas,3.7415294616101167,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,False,True,False,False,False,True
+Emploi Ressources Humaines,Stage,0,3.0,33,33,monthly,Bas,1.2343768802990323,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,False,True,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,Temps partiel,0,3.0,44,44,hourly,Bas,1.7547293028352953,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,False,False,True,False,True,False
+Emploi Ressources Humaines,Intérim,0,3.0,45,45,hourly,Bas,1.80203406852041,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,True,False,False,False,True,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,Intérim,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,True,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,27,27,monthly,Bas,0.9505482861883435,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,Intérim,0,5.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,6.534766557838772,-0.5220818369225695,False,False,False,True,False,False,False,True,False,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,CDD,0,3.0,33,33,monthly,Moyen,1.2343768802990323,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,True,False,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,True,False
+Emploi Ressources Humaines,CDI,0,3.0,42,42,annual,Haut,1.6601197714650655,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,22,22,annual,Haut,0.7140244577627696,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDD,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,True,False,False,False,False,True,False,False
+Emploi Ressources Humaines,CDD,0,3.0,44,44,monthly,Bas,1.7547293028352953,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,True,False,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,44,44,monthly,Bas,1.7547293028352953,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,22,22,monthly,Moyen,0.7140244577627696,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDD,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,True,False,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,CDD,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,True,False,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,88,88,monthly,Bas,3.836138992980346,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,monthly,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,Intérim,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,True,False,False,True,False,False
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,Intérim,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,True,False,False,True,False,False
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,monthly,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,False,False,True
+Emploi Ressources Humaines,CDD,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,True,False,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDD,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,True,False,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDD,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,True,False,False,False,False,True,False,False
+Emploi Ressources Humaines,Intérim,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,True,False,False,False,True,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDD,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,True,False,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,1,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,1.9154085227222932,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,CDD,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,True,False,False,False,False,True,False,False
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Moyen,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,Alternance,0,3.0,Non précisé,-1,monthly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,True,False,False,False,False,False,False,False,True
+Emploi Ressources Humaines,CDI,0,3.0,Non précisé,-1,annual,Haut,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,True,False,False,False,True,False,False
+Emploi Ressources Humaines,Stage,0,3.0,Non précisé,-1,hourly,Bas,-0.37398515299487073,-0.03585605793052774,-0.5220818369225695,False,False,False,True,False,False,False,False,True,False,False,True,False

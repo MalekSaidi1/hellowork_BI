@@ -21,7 +21,7 @@ driver = webdriver.Chrome(service=service, options=options)
 
 # --- Configuration scraping ---
 base_url = "https://www.hellowork.com/fr-fr/emploi.html"
-max_pages = 10  # nombre de pages à scraper
+max_pages = 10
 page = 1
 data = []
 
@@ -32,7 +32,7 @@ while page <= max_pages:
     driver.get(f"{base_url}?page={page}")
     time.sleep(3)
 
-    # Cliquer sur "Voir toutes les offres" si présent
+    # Cliquer sur "Voir toutes les offres"
     try:
         voir_toutes_btn = driver.find_element(By.CSS_SELECTOR, 'span.tw-btn-primary-xl.tw-mt-6.sm\\:tw-mt-8.tw-place-self-start')
         driver.execute_script("arguments[0].click();", voir_toutes_btn)
@@ -51,7 +51,7 @@ while page <= max_pages:
             break
         last_height = new_height
 
-    # Récupérer les liens des offres
+    # Liens des offres
     offres_elements = driver.find_elements(By.CSS_SELECTOR, 'a[data-cy="offerTitle"]')
     if not offres_elements:
         print(f"Page {page} : Aucune offre trouvée")
@@ -65,6 +65,7 @@ while page <= max_pages:
         driver.get(lien)
         time.sleep(2)
 
+        # --- CHAMPS HABITUELS ---
         try:
             titre = driver.find_element(By.CSS_SELECTOR, 'span[data-cy="jobTitle"]').text
         except:
@@ -104,19 +105,53 @@ while page <= max_pages:
         except:
             salaire = "N/A"
 
-        data.append([titre, entreprise, localisation, type_contrat, niveau_etudes,
-                     experience, date_pub, salaire, lien])
+        # --- NOUVELLE PARTIE : EXTRACTION DE LA DESCRIPTION ---
+        try:
+            # bloc principal de description
+            desc_block = driver.find_element(By.CSS_SELECTOR, 'div[data-cy="jobDescription"]')
+            description_element = driver.find_element(By.CSS_SELECTOR, 'div[data-cy="jobDescription"]')
+            description = description_element.text.strip()
+
+        except:
+            description = "Non renseignée"
+
+        # --- SAUVEGARDE DANS LA LISTE ---
+        data.append([
+            titre,
+            entreprise,
+            localisation,
+            type_contrat,
+            niveau_etudes,
+            experience,
+            date_pub,
+            salaire,
+            lien,
+            description  # ✔ nouvelle colonne
+        ])
+
         print(f"Scraped: {titre}")
 
     page += 1
 
-# --- Sauvegarder en CSV ---
-csv_file = os.path.join(script_dir, "../../data/offres_hellowork.csv")
+# --- SAUVEGARDE DU CSV ---
+csv_file = os.path.join(script_dir, "../../data/offres_hellowork_full.csv")
+
 with open(csv_file, "w", newline="", encoding="utf-8") as f:
     writer = csv.writer(f)
-    writer.writerow(["Titre", "Entreprise", "Localisation", "Type contrat",
-                     "Niveau d'études", "Expérience", "Date Publication", "Salaire", "Lien Offre"])
+    writer.writerow([
+        "Titre",
+        "Entreprise",
+        "Localisation",
+        "Type contrat",
+        "Niveau d'études",
+        "Expérience",
+        "Date Publication",
+        "Salaire",
+        "Lien Offre",
+        "Description"
+    ])
     writer.writerows(data)
 
 driver.quit()
-print("\nScraping terminé ! CSV généré avec succès.")
+print("\n>>> Scraping terminé !")
+print(f"CSV généré avec succès : {csv_file}")
